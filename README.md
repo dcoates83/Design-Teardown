@@ -3,3 +3,5 @@ In this simple project, I’ll be breaking apart the website for a popular desig
 My job is to create a grayscale heat map of the website that indicates which elements have the greatest weight in the visual hierarchy.
 
 http://smashingmagazine.com/
+
+View a live Pre-view published at https://dcoates83.github.io/Design-Teardown/.
